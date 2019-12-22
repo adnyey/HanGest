@@ -1,7 +1,10 @@
-![](screenshots/icon.png)         ![](screenshots/tensorflow.png)![](screenshots/keras.jpg)
+![](screenshots/icon.png)
 # HanGest
 [![Download](https://img.shields.io/badge/Download-Latest%20APK-blue.svg)](https://github.com/adnyey/HanGest/releases/download/1.1/HanGest_1.1.apk)
 ![Size](https://img.shields.io/badge/Size-23.5%20MB-lightgrey.svg)
+
+![](screenshots/tensorflow.png)
+![](screenshots/keras.jpg)
 
 This application demonstrates the capability of the model.
  1. It can be used to play real-time games.
