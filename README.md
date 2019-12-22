@@ -5,6 +5,7 @@
 
 ![](screenshots/tensorflow.png)
 ![](screenshots/keras.jpg)
+![](screenshots/nvidia.png)
 
 This application demonstrates the capability of the model.
  1. It can be used to play real-time games.
