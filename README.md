@@ -10,4 +10,4 @@ This application demonstrates the capability of the model.
 ![](screenshots/features.png)
 
 *Demonstrating the accuracy of the model:*
-![](screenshots/five_gesture.jpg)
+![](screenshots/gesture_test.png)
