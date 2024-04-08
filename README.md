@@ -6,7 +6,7 @@
 ![](screenshots/tensorflow.png)
 ![](screenshots/keras.jpg)
 ![](screenshots/nvidia.png)
-
+(Dec 2017)
 An application that uses computer vision to detect hand gestures using android phone cameras to control the phone's user interface and play games. All handsfree.
 
 This application demonstrates the capability of the model.
