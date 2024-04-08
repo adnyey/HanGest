@@ -7,6 +7,8 @@
 ![](screenshots/keras.jpg)
 ![](screenshots/nvidia.png)
 
+An application that uses computer vision to detect hand gestures using android phone cameras to control the phone's user interface and play games. All handsfree.
+
 This application demonstrates the capability of the model.
  1. It can be used to play real-time games.
  2. It can be used to navigate interfaces.
