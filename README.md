@@ -24,4 +24,4 @@ This application demonstrates the capability of the model.
 ![](screenshots/gesture_test.png)
 
 *Application architecture:*
-![](screenshots/architecture.png)
+![](screenshots/architecture.jpg)
